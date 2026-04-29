@@ -1,0 +1,14 @@
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\bin\Debug\net10.0\Course.exe
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\bin\Debug\net10.0\Course.deps.json
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\bin\Debug\net10.0\Course.runtimeconfig.json
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\bin\Debug\net10.0\Course.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\bin\Debug\net10.0\Course.pdb
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\obj\Debug\net10.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\obj\Debug\net10.0\Course.AssemblyInfoInputs.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\obj\Debug\net10.0\Course.AssemblyInfo.cs
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\obj\Debug\net10.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\obj\Debug\net10.0\Course.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\obj\Debug\net10.0\refint\Course.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\obj\Debug\net10.0\Course.pdb
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\obj\Debug\net10.0\Course.genruntimeconfig.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\Course\Course\obj\Debug\net10.0\ref\Course.dll

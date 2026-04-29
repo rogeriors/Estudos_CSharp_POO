@@ -1,0 +1,14 @@
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\bin\Debug\net10.0\ExerciciosPropostos.exe
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\bin\Debug\net10.0\ExerciciosPropostos.deps.json
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\bin\Debug\net10.0\ExerciciosPropostos.runtimeconfig.json
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\bin\Debug\net10.0\ExerciciosPropostos.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\bin\Debug\net10.0\ExerciciosPropostos.pdb
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net10.0\ExerciciosPropostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net10.0\ExerciciosPropostos.AssemblyInfoInputs.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net10.0\ExerciciosPropostos.AssemblyInfo.cs
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net10.0\ExerciciosPropostos.csproj.CoreCompileInputs.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net10.0\ExerciciosPropostos.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net10.0\refint\ExerciciosPropostos.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net10.0\ExerciciosPropostos.pdb
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net10.0\ExerciciosPropostos.genruntimeconfig.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\ExerciciosPropostos\ExerciciosPropostos\obj\Debug\net10.0\ref\ExerciciosPropostos.dll

@@ -1,0 +1,14 @@
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\bin\Debug\net10.0\While.exe
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\bin\Debug\net10.0\While.deps.json
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\bin\Debug\net10.0\While.runtimeconfig.json
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\bin\Debug\net10.0\While.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\bin\Debug\net10.0\While.pdb
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\obj\Debug\net10.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\obj\Debug\net10.0\While.AssemblyInfoInputs.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\obj\Debug\net10.0\While.AssemblyInfo.cs
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\obj\Debug\net10.0\While.csproj.CoreCompileInputs.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\obj\Debug\net10.0\While.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\obj\Debug\net10.0\refint\While.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\obj\Debug\net10.0\While.pdb
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\obj\Debug\net10.0\While.genruntimeconfig.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\While\While\obj\Debug\net10.0\ref\While.dll

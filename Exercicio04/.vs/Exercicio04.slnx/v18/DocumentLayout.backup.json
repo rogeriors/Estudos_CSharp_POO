@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\Exercicio04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{750A00EB-8CFF-4C56-B808-8D0914CAABFD}|Exercicio04\\Exercicio04.csproj|c:\\users\\pczim\\documents\\estudos_c#_poo\\exercicio04\\exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750A00EB-8CFF-4C56-B808-8D0914CAABFD}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\Exercicio04\\Exercicio04\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio04\\Program.cs",
+              "ToolTip": "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\Exercicio04\\Exercicio04\\Program.cs*",
+              "RelativeToolTip": "Exercicio04\\Program.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwDsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:42:17.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

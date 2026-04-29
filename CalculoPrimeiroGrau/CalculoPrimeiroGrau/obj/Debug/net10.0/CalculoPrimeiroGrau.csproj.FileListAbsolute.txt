@@ -1,0 +1,14 @@
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\bin\Debug\net10.0\CalculoPrimeiroGrau.exe
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\bin\Debug\net10.0\CalculoPrimeiroGrau.deps.json
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\bin\Debug\net10.0\CalculoPrimeiroGrau.runtimeconfig.json
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\bin\Debug\net10.0\CalculoPrimeiroGrau.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\bin\Debug\net10.0\CalculoPrimeiroGrau.pdb
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\obj\Debug\net10.0\CalculoPrimeiroGrau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\obj\Debug\net10.0\CalculoPrimeiroGrau.AssemblyInfoInputs.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\obj\Debug\net10.0\CalculoPrimeiroGrau.AssemblyInfo.cs
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\obj\Debug\net10.0\CalculoPrimeiroGrau.csproj.CoreCompileInputs.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\obj\Debug\net10.0\CalculoPrimeiroGrau.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\obj\Debug\net10.0\refint\CalculoPrimeiroGrau.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\obj\Debug\net10.0\CalculoPrimeiroGrau.pdb
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\obj\Debug\net10.0\CalculoPrimeiroGrau.genruntimeconfig.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\CalculoPrimeiroGrau\CalculoPrimeiroGrau\obj\Debug\net10.0\ref\CalculoPrimeiroGrau.dll

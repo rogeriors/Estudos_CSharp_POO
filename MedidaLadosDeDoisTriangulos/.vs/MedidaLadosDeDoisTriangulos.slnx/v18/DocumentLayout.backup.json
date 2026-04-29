@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\MedidaLadosDeDoisTriangulos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3244853F-2826-0893-4C63-C99385C008D1}|MedidaLadosDeDoisTriangulos\\MedidaLadosDeDoisTriangulos.csproj|c:\\users\\pczim\\documents\\estudos_c#_poo\\medidaladosdedoistriangulos\\medidaladosdedoistriangulos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3244853F-2826-0893-4C63-C99385C008D1}|MedidaLadosDeDoisTriangulos\\MedidaLadosDeDoisTriangulos.csproj|solutionrelative:medidaladosdedoistriangulos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3244853F-2826-0893-4C63-C99385C008D1}|MedidaLadosDeDoisTriangulos\\MedidaLadosDeDoisTriangulos.csproj|c:\\users\\pczim\\documents\\estudos_c#_poo\\medidaladosdedoistriangulos\\medidaladosdedoistriangulos\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3244853F-2826-0893-4C63-C99385C008D1}|MedidaLadosDeDoisTriangulos\\MedidaLadosDeDoisTriangulos.csproj|solutionrelative:medidaladosdedoistriangulos\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\MedidaLadosDeDoisTriangulos\\MedidaLadosDeDoisTriangulos\\Triangulo.cs",
+              "RelativeDocumentMoniker": "MedidaLadosDeDoisTriangulos\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\MedidaLadosDeDoisTriangulos\\MedidaLadosDeDoisTriangulos\\Triangulo.cs*",
+              "RelativeToolTip": "MedidaLadosDeDoisTriangulos\\Triangulo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:48:20.79Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\MedidaLadosDeDoisTriangulos\\MedidaLadosDeDoisTriangulos\\Program.cs",
+              "RelativeDocumentMoniker": "MedidaLadosDeDoisTriangulos\\Program.cs",
+              "ToolTip": "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\MedidaLadosDeDoisTriangulos\\MedidaLadosDeDoisTriangulos\\Program.cs",
+              "RelativeToolTip": "MedidaLadosDeDoisTriangulos\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:48:26.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

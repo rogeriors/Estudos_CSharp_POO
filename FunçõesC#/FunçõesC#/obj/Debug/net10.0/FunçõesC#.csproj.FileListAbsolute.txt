@@ -1,0 +1,14 @@
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\bin\Debug\net10.0\FunçõesC#.exe
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\bin\Debug\net10.0\FunçõesC#.deps.json
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\bin\Debug\net10.0\FunçõesC#.runtimeconfig.json
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\bin\Debug\net10.0\FunçõesC#.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\bin\Debug\net10.0\FunçõesC#.pdb
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\obj\Debug\net10.0\FunçõesC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\obj\Debug\net10.0\FunçõesC#.AssemblyInfoInputs.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\obj\Debug\net10.0\FunçõesC#.AssemblyInfo.cs
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\obj\Debug\net10.0\FunçõesC#.csproj.CoreCompileInputs.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\obj\Debug\net10.0\FunçõesC#.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\obj\Debug\net10.0\refint\FunçõesC#.dll
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\obj\Debug\net10.0\FunçõesC#.pdb
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\obj\Debug\net10.0\FunçõesC#.genruntimeconfig.cache
+C:\Users\PCzim\Documents\Estudos_C#_POO\FunçõesC#\FunçõesC#\obj\Debug\net10.0\ref\FunçõesC#.dll
