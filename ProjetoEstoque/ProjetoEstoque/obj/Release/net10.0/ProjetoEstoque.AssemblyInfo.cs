@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoEstoque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4f5b0910b7cf87f542d87712b41e372090c3fac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoEstoque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoEstoque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

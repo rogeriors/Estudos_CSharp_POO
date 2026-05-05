@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\ProjetoEstoque\\ProjetoEstoque\\ProjetoEstoque.csproj": {}
+    "C:\\Users\\PCzim\\Documents\\GitHub\\Estudos_CSharp_POO\\ProjetoEstoque\\ProjetoEstoque\\ProjetoEstoque.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\ProjetoEstoque\\ProjetoEstoque\\ProjetoEstoque.csproj": {
+    "C:\\Users\\PCzim\\Documents\\GitHub\\Estudos_CSharp_POO\\ProjetoEstoque\\ProjetoEstoque\\ProjetoEstoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\ProjetoEstoque\\ProjetoEstoque\\ProjetoEstoque.csproj",
+        "projectUniqueName": "C:\\Users\\PCzim\\Documents\\GitHub\\Estudos_CSharp_POO\\ProjetoEstoque\\ProjetoEstoque\\ProjetoEstoque.csproj",
         "projectName": "ProjetoEstoque",
-        "projectPath": "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\ProjetoEstoque\\ProjetoEstoque\\ProjetoEstoque.csproj",
+        "projectPath": "C:\\Users\\PCzim\\Documents\\GitHub\\Estudos_CSharp_POO\\ProjetoEstoque\\ProjetoEstoque\\ProjetoEstoque.csproj",
         "packagesPath": "C:\\Users\\PCzim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCzim\\Documents\\Estudos_C#_POO\\ProjetoEstoque\\ProjetoEstoque\\obj\\",
+        "outputPath": "C:\\Users\\PCzim\\Documents\\GitHub\\Estudos_CSharp_POO\\ProjetoEstoque\\ProjetoEstoque\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
