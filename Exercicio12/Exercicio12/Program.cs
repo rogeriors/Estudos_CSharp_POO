@@ -16,12 +16,12 @@ namespace Vetor_Classe
             }
 
             Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine("-----------------------------------------------------------");
 
+            Console.WriteLine("-----------------------------------------------------------");
+            Console.WriteLine();
             Console.Write("How many students will reserve rooms? ");
             int n = int.Parse(Console.ReadLine());
-            Console.WriteLine();
+
 
             for (int i = 0; i < n; i++)
             {
@@ -38,10 +38,9 @@ namespace Vetor_Classe
 
                 Console.Clear();
                 Console.WriteLine("Status visual dos quartos:");
-                
+
                 for (int a = 0; a < 10; a++)
                 {
-                    
                     if (rooms[a] != null)
                     {
                         Console.Write("[ X ] "); // Ocupado
@@ -52,7 +51,7 @@ namespace Vetor_Classe
                     }
                 }
                 Console.WriteLine();
-                
+
                 Console.WriteLine("-----------------------------------------------------------");
             }
 
